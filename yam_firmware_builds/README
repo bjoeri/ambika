@@ -1,4 +1,4 @@
 This folder contains YAM firmware builds. 
 
-Follow the instructions in the Ambika user manual (http://mutable-instruments.net/ambika/manual) to update the firmware. Don't forget to rename the wanted controller file AMBIKA.BIN, and the wanted voicecard file VOICE1.BIN for the 1st voicecard etc.
+Follow the instructions in the Ambika user manual (https://mutable-instruments.net/archive/ambika/manual/) to update the firmware. Don't forget to rename the wanted controller file AMBIKA.BIN, and the wanted voicecard file VOICE1.BIN for the 1st voicecard etc.
 
