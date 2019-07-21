@@ -21,7 +21,7 @@
 // make resources
 
 
-#include "controller\resources.h"
+#include "controller/resources.h"
 
 namespace ambika {
 
