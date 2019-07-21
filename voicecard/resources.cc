@@ -21,7 +21,7 @@
 // make resources
 
 
-#include "voicecard\resources.h"
+#include "voicecard/resources.h"
 
 namespace ambika {
 
